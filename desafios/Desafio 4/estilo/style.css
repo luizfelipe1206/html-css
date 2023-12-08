@@ -51,10 +51,12 @@ header > h1{
     font-weight: normal;
 }
 header > p{
+    font-family: var(--fonte-padrao);
+    font-size: 1.2em;
     color: white;
-    font-size: 1.5rem;
-    max-width: 500px;
+    max-width: 600px;
     margin: auto;
+    padding-bottom: 30px;
     padding-right: 10px;
     padding-left: 10px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.466);
